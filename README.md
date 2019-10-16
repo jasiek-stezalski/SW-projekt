@@ -1,1 +1,1 @@
-Projekt z przedmiotu Systemu Wbudowane wykonany w języku System C. Program realizuje działanie sterownika sprzętu HiFi. 
+Project from the subject "Systemu Wbudowane" made in the System C language. The program implements the operation of the HiFi equipment driver.
